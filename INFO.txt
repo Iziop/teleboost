@@ -1,0 +1,42 @@
+Еще больше сливов с приватного канала здесь -  t.me/oblako_sxem
+
+
+Установка:
+
+pip3 install chromepass
+
+или
+
+
+git clone https://github.com/bierschi/chromepass
+cd chromepass
+sudo python3 setup.py install
+
+Использование:
+
+
+Предустановки:
+
+chromepass --help
+
+
+БЕз предустановок
+
+chromepass
+
+
+Сохранить результат в файл:
+
+chromepass --file /home/christian/chromepass.txt
+
+Установить pyinstaller:
+
+pip3 install pyinstaller
+
+
+
+Создать ехе файл:
+pyinstaller --onefile --name chromepass chromepass/main.py
+
+Еще больше сливов с приватного канала здесь -  t.me/oblako_sxem
+
